@@ -1,5 +1,5 @@
 var config = {
-    tilt: "p1",
+    pitch: "p1",
     yaw: "p2",
 };
 
