@@ -1,3 +1,4 @@
 gimbal-listener
+===============
 
-Relay for OculusVR orientation to gimbal
+Listener for OculusVR orientation instructions to relay to gimbal
